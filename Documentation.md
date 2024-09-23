@@ -15,7 +15,10 @@ Use Case description:
 
 
 
+
+
 Use Case description:
+
 
 <div style="display: flex;">
   <img src="figures/receive-message-activity.png" style="height: 300px;">
@@ -23,3 +26,5 @@ Use Case description:
 </div>
 
 
+
+Use Case description:
