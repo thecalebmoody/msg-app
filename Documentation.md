@@ -33,7 +33,7 @@ Use Case description:
 
 <div style="display: flex;">
   <img src="figures/login-activity.png" style="height: 300px;">
-  <img src="figures/sendmsg_single_user_sequnce_diagram.png" alt="Image 2" style="height: 300px;">
+  <img src="figures/login-sequence.png" alt="Image 2" style="height: 300px;">
 </div>
 
 
